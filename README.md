@@ -1,4 +1,4 @@
-# red-team-isolated-lab
+# red-team-isolated-home-lab
 A fully isolated cybersecurity home lab for red team practice using Kali, Parrot OS, and Metasploitable2.
 
 # Red Team Cybersecurity Home Lab
