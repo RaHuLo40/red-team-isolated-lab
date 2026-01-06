@@ -36,6 +36,10 @@ This project focuses on:
 | Purpose | Red team attack simulation |
 
 ---
+---
+
+## 📂 Repository Structure
+
 
 ## ⚠️ Ethical & Legal Disclaimer
 
