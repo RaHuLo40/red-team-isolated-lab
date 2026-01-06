@@ -36,9 +36,6 @@ This project focuses on:
 | Purpose | Red team attack simulation |
 
 ---
----
-
-## 📂 Repository Structure
 
 
 ## ⚠️ Ethical & Legal Disclaimer
@@ -50,3 +47,8 @@ This lab is created **strictly for educational purposes**.
 - No real-world systems are targeted
 
 ⚠️ **Never perform these techniques on systems you do not own or have permission to test.**
+
+---
+
+## 📂 Repository Structure
+
